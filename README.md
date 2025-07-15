@@ -5,12 +5,12 @@ Bem-vindo ao meu repositório de projetos! Aqui você encontrará uma coleção 
 ## 🧠 Objetivos deste repositório
 
 - Reunir meus projetos favoritos em um só lugar
-- Praticar e mostrar minha evolução como desenvolvedor front-end
+- Praticar e mostrar minha evolução como desenvolvedor front-end e back-end
 - Compartilhar ideias, layouts e aprendizados com a comunidade
 
 ## 📁 O que você vai encontrar
 
-- Projetos de layout estático com HTML e CSS
+- Projetos de layout com HTML e CSS
 - Interfaces simples com interatividade em JavaScript
 - Iniciativas pessoais para aprender e experimentar novas ideias
 
@@ -25,7 +25,7 @@ Welcome to my project repository! Here you will find a collection of my main wor
 ## 🧠 Goals of this repository
 
 - Gather my favorite projects in one place
-- Practice and show my evolution as a front-end developer
+- Practice and show my evolution as a front-end developer and back-end development
 - Share ideas, layouts, and knowledge with the community
 
 ## 📁 What you'll find
